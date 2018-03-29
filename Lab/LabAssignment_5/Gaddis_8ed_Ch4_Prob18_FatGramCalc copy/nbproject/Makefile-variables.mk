@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=gaddis_8ed_ch4_prob18_fatgram
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/gaddis_8ed_ch4_prob18_fatgram
+CND_ARTIFACT_NAME_Debug=gaddis_8ed_ch4_prob18_fatgramcalc_copy
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/gaddis_8ed_ch4_prob18_fatgramcalc_copy
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=gaddis8edch4prob18fatgram.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/gaddis8edch4prob18fatgram.tar
+CND_PACKAGE_NAME_Debug=gaddis8edch4prob18fatgramcalccopy.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/gaddis8edch4prob18fatgramcalccopy.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=gaddis_8ed_ch4_prob18_fatgram
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/gaddis_8ed_ch4_prob18_fatgram
+CND_ARTIFACT_NAME_Release=gaddis_8ed_ch4_prob18_fatgramcalc_copy
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/gaddis_8ed_ch4_prob18_fatgramcalc_copy
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=gaddis8edch4prob18fatgram.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/gaddis8edch4prob18fatgram.tar
+CND_PACKAGE_NAME_Release=gaddis8edch4prob18fatgramcalccopy.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/gaddis8edch4prob18fatgramcalccopy.tar
 #
 # include compiler specific variables
 #

@@ -7,15 +7,15 @@
 # Macros
 TOP=`pwd`
 CND_PLATFORM=GNU-MacOSX
-CND_CONF=Release
+CND_CONF=Debug
 CND_DISTDIR=dist
 CND_BUILDDIR=build
 CND_DLIB_EXT=dylib
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8ed_ch4_prob18_fatgram
-OUTPUT_BASENAME=gaddis_8ed_ch4_prob18_fatgram
-PACKAGE_TOP_DIR=gaddis8edch4prob18fatgram/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gaddis_8ed_ch4_prob19_spectralanalysis_copy
+OUTPUT_BASENAME=gaddis_8ed_ch4_prob19_spectralanalysis_copy
+PACKAGE_TOP_DIR=gaddis8edch4prob19spectralanalysiscopy/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/gaddis8edch4prob18fatgram/bin"
+makeDirectory "${NBTMPDIR}/gaddis8edch4prob19spectralanalysiscopy/bin"
 copyFileToTmpDir "${OUTPUT_PATH}" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8edch4prob18fatgram.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8edch4prob19spectralanalysiscopy.tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8edch4prob18fatgram.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/gaddis8edch4prob19spectralanalysiscopy.tar *
 checkReturnCode
 
 # Cleanup

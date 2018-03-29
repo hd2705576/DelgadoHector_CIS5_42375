@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Gaddis_8ed_Ch4_Prob18_FatGram
+PROJECTNAME=Gaddis_8ed_Ch4_Prob18_FatGramCalc copy
 
 # Active Configuration
 DEFAULTCONF=Debug

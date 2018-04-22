@@ -27,7 +27,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
     //Declare Variables
-    	ofstream OutputFile;			// Define ofstream object
+           ofstream OutputFile;			// Define ofstream object
 
             float strtBal,                // Starting Balance
 		   deposit,				    // Monthly deposits
